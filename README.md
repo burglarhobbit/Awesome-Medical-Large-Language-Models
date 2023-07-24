@@ -26,7 +26,7 @@ A curated list of popular Foundation Models in Healthcare.
 ## Survey Papers
 | Title | Institute | Date
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: | :-----------: |
-| [Do We Still Need Clinical Language Models?](https://arxiv.org/pdf/2302.08091) | MITA, Xyla <br> ![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:256900662?fields=citationCount&query=%24.citationCount&label=citations) | 2023-02
+| [Do We Still Need Clinical Language Models?](https://arxiv.org/pdf/2302.08091) | MIT, Xyla <br> ![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:256900662?fields=citationCount&query=%24.citationCount&label=citations) | 2023-02
 <!--
 | [Paper Name](arxiv link) | Institute Name <br> ![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:12345678?fields=citationCount&query=%24.citationCount&label=citations) | 20xx-xx
 -->
