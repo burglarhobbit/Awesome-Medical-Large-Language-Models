@@ -2,7 +2,7 @@
 
 A curated list of popular Foundation Models in Healthcare.
 
-## Foundation Models
+## Large Language Models
 | Title | Institute | Date | Code
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: | :-----------: | :---------: |
 | [CoDoC: Enhancing the reliability and accuracy of AI-enabled diagnosis via complementarity-driven deferral to clinicians](https://www.nature.com/articles/s41591-023-02437-x) | DeepMind, Google <br> ![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:259939727?fields=citationCount&query=%24.citationCount&label=citations) | 2023-07 | [Github](https://github.com/deepmind/codoc/tree/main) <br> ![Star](https://img.shields.io/github/stars/deepmind/codoc?style=social&label=Stars)
@@ -24,6 +24,10 @@ A curated list of popular Foundation Models in Healthcare.
 <!--
 | [Paper Name](arxiv link) | Institute Name <br> ![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:12345678?fields=citationCount&query=%24.citationCount&label=citations) | 20xx-xx | [HuggingFace](https://github.com) <br> ![Likes](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/models/&query=%24.likes&label=🤗+Likes)
 -->
+## Large Vision Models
+| Title | Institute | Date | Code
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: | :-----------: | :---------: |
+| [Segment anything model for medical image analysis: An experimental study](https://arxiv.org/pdf/2304.10517) | Duke University <br> ![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:258236547?fields=citationCount&query=%24.citationCount&label=citations) | 2023-04 | [Github](https://github.com/mazurowski-lab/segment-anything-medical-evaluation) <br> ![Star](https://img.shields.io/github/stars/mazurowski-lab/segment-anything-medical-evaluation?style=social&label=Stars)
 ## Survey Papers
 | Title | Institute | Date
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: | :-----------: |
