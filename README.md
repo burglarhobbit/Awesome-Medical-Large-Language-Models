@@ -5,11 +5,11 @@ A curated list of popular Foundation Models in Healthcare. Please submit a pull 
 <!-- for meditron entry, both HF and Github is shown. There is no <br> between Github and Stars as having <br> breaks the HuggingFace entry into separate line and currently seems hard to have nonbreaking property: https://stackoverflow.com/a/44555965/5276428 -->
 
 # Table of Contents
-- [Large Language Models](#LLMs)
-- [Large Vision Models](#LLMs)
+- [Large Language Models](#llms)
+- [Large Vision Models](#lvms)
 - [Survey Papers + Clinical Studies](#survey-studies)
 
-## Large Language Models <a name="LLMs"></a>
+## Large Language Models <a name="llms"></a>
 | Title | Institute | Date | Code
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: | :-----------: | :-------------: |
 | [AMIE: Towards Conversational Diagnostic AI](https://arxiv.org/pdf/2401.05654.pdf) | Google Research, DeepMind <br> ![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:266933212?fields=citationCount&query=%24.citationCount&label=citations) | 2024-01 | -
@@ -34,7 +34,7 @@ A curated list of popular Foundation Models in Healthcare. Please submit a pull 
 <!--
 | [Paper Name](arxiv link) | Institute Name <br> ![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:12345678?fields=citationCount&query=%24.citationCount&label=citations) | 20xx-xx | [HuggingFace](https://github.com) <br> ![Likes](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/models/&query=%24.likes&label=🤗+Likes)
 -->
-## Large Vision Models <a name="LVMs"></a>
+## Large Vision Models <a name="lvms"></a>
 | Title | Institute | Date | Code
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: | :-----------: | :---------: |
 | [Segment anything model for medical image analysis: An experimental study](https://arxiv.org/pdf/2304.10517) | Duke University <br> ![citations](https://img.shields.io/badge/dynamic/json?url=https://api.semanticscholar.org/graph/v1/paper/CorpusID:258236547?fields=citationCount&query=%24.citationCount&label=citations) | 2023-04 | [Github](https://github.com/mazurowski-lab/segment-anything-medical-evaluation) <br> ![Star](https://img.shields.io/github/stars/mazurowski-lab/segment-anything-medical-evaluation?style=social&label=Stars)
