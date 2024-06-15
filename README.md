@@ -3,6 +3,7 @@
 A curated list of popular Foundation Models in Healthcare. Please submit a pull request to contribute :-)
 <!-- used non-break hyphen &#x2011; in the last entry of the tables so dates don't break into different lines: https://stackoverflow.com/questions/30308032/markdown-no-break-nobr -->
 <!-- for meditron entry, both HF and Github is shown. There is no <br> between Github and Stars as having <br> breaks the HuggingFace entry into separate line and currently seems hard to have nonbreaking property: https://stackoverflow.com/a/44555965/5276428 -->
+🤗[Open Medical-LLM Leaderboard](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard)
 
 # Table of Contents
 - [Large Language Models](#llms)
